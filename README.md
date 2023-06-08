@@ -54,9 +54,7 @@ Aquí tienes la tabla actualizada en formato Markdown:
 
 
 
-
-
-
+Aquí tienes la tabla en formato Markdown:
 
 | URL | Fecha | Título |
 | --- | ----- | ------ |
@@ -67,6 +65,7 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [https://fb.watch/8U1lsS7aIE/](https://fb.watch/8U1lsS7aIE/) | 10/5/2020 | Entrevista Colectivo Caminantes del Desierto, Cinturon Verde |
 | [https://www.elimparcial.com/sonora/hermosillo/Dan-mantenimiento-al-Cinturon-Verde-en-el-Parque-Johnson-20201006-0014.html](https://www.elimparcial.com/sonora/hermosillo/Dan-mantenimiento-al-Cinturon-Verde-en-el-Parque-Johnson-20201006-0014.html) | 10/6/2020 | Dan mantenimiento al Cinturón Verde en el Parque Johnson |
 | [https://www.elimparcial.com/sonora/hermosillo/Reportan-tala-de-15-arboles-en-Hermosillo-20201007
+
 -0011.html](https://www.elimparcial.com/sonora/hermosillo/Reportan-tala-de-15-arboles-en-Hermosillo-20201007-0011.html) | 10/7/2020 | Reportan tala de 15 árboles en Hermosillo |
 | [https://www.elimparcial.com/sonora/hermosillo/Piden-ambientalistas-utilizar-arboles-nativos-en-andador-del-Centro--20201111-0020.html](https://www.elimparcial.com/sonora/hermosillo/Piden-ambientalistas-utilizar-arboles-nativos-en-andador-del-Centro--20201111-0020.html) | 11/11/2020 | Piden ambientalistas utilizar árboles nativos en andador del Centro |
 | [https://proyectopuente.com.mx/2020/11/13/caminantes-del-desierto-solicita-se-planten-arboles-nativos-en-proyectos-de-infraestructura-en-hermosillo-para-mitigar-isla-de-calor/](https://proyectopuente.com.mx/2020/11/13/caminantes-del-desierto-solicita-se-planten-arboles-nativos-en-proyectos-de-infraestructura-en-hermosillo-para-mitigar-isla-de-calor/) | 11/13/2020 | Activistas ambientales solicitan se planten árboles nativos en proyectos de infraestructura en Hermosillo para mitigar isla de calor |
@@ -74,6 +73,7 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [https://fronterasdesk.org/content/1641435/facing-rising-heat-shrinking-vegetation-many-hermosillo-reimagine-greener-city](https://fronterasdesk.org/content/1641435/facing-rising-heat-shrinking-vegetation-many-hermosillo-reimagine-greener-city) | 12/8/2020 | Facing Rising Heat, Shrinking Vegetation, Many In Hermosillo Reimagine A Greener City |
 | [https://www.elsoldehermosillo.com.mx/local/pademia-de-covid-19-actividades-de-reforestacion-hermosillo-prevencion-cerro-johnson-cinturon-verde-caminantes-del-desierto-luis-gonzalez-6187793.html](https://www.elsoldehermosillo.com.mx/local/pademia-de-covid-19-actividades-de-reforestacion-hermosillo-prevencion-cerro-johnson-cinturon-verde-caminantes-del-desierto-luis-gonzalez-6187793.html) | 12/30/2020 | La pandemia de Covid-19 afectó actividades como la reforestación |
 | [https://www.elimparcial.com
+
 /sonora/hermosillo/Ambientalistas-plantan-mas-de-2-mil-arboles-20191230-0033.html](https://www.elimparcial.com/sonora/hermosillo/Ambientalistas-plantan-mas-de-2-mil-arboles-20191230-0033.html) | 12/30/2020 | Ambientalistas plantan más de 2 mil árboles |
 | [https://proyectopuente.com.mx/2021/01/14/solicitan-hermosillo-como-vamos-y-asociaciones-proyecto-sustentable-y-cultural-para-el-cerro-de-la-campana/](https://proyectopuente.com.mx/2021/01/14/solicitan-hermosillo-como-vamos-y-asociaciones-proyecto-sustentable-y-cultural-para-el-cerro-de-la-campana/) | 1/14/2021 | Solicitan Hermosillo ¿Cómo Vamos? y asociaciones proyecto sustentable y cultural para el Cerro de la Campana |
 | [https://www.expreso.com.mx/seccion/sonora/279855-cuidado-advierten-de-serias-consecuencias-por-la-africanizacion-de-sonora.html](https://www.expreso.com.mx/seccion/sonora/279855-cuidado-advierten-de-serias-consecuencias-por-la-africanizacion-de-sonora.html) | 1/20/2021 | ¡Cuidado! Advierten de serias consecuencias por la "africanización" de Sonora |
@@ -81,6 +81,7 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [https://proyectopuente.com.mx/2021/01/27/toman-protesta-integrantes-del-consejo-consultivo-de-la-zona-historica-de-hermosillo/](https://proyectopuente.com.mx/2021/01/27/toman-protesta-integrantes-del-consejo-consultivo-de-la-zona-historica-de-hermosillo/) | 1/27/2021 | Toman protesta integrantes del Consejo Consultivo de la Zona Histórica de Hermosillo |
 | [https://fronterasdesk.org/content/1655800/hiking-enjoys-boost-popularity-during-sonoran-pandemic](https://fronterasdesk.org/content/1655800/hiking-enjoys-boost-popularity-during-sonoran-pandemic) | 2/3/2021 | Hiking Enjoys Boost In Popularity During Sonoran Pandemic |
 | [https://proyectopuente.com.mx/2021/02/09/caminantes-del-desierto-hara-jornadas-de-limpieza-para-cinturon-verde-en-hermosillo-desde-cerro-johnson-hasta-mina-naco/](https://proyectopuente.com.mx/2021/02/09/caminantes-del-desierto-hara-jornadas-de-limpieza-para-cinturon-verde-en-hermosillo-desde
+
 -cerro-johnson-hasta-mina-naco/) | 2/9/2021 | Caminantes del Desierto hará jornadas de limpieza para Cinturón Verde en Hermosillo desde Cerro Johnson hasta Mina Naco |
 | [https://www.expreso.com.mx/seccion/sonora/282099-hermosillo-primer-lugar-en-negocios-por-internet-destaca-mercado-libre.html](https://www.expreso.com.mx/seccion/sonora/282099-hermosillo-primer-lugar-en-negocios-por-internet-destaca-mercado-libre.html) | 2/16/2021 | Hermosillo, primer lugar en negocios por Internet; destaca Mercado Libre |
 | [https://proyectopuente.com.mx/2021/02/20/hermosillo-cuenta-con-el-segundo-arbol-solar-de-mexico-para-recarga-de-electricos/](https://proyectopuente.com.mx/2021/02/20/hermosillo-cuenta-con-el-segundo-arbol-solar-de-mexico-para-recarga-de-electricos/) | 2/20/2021 | Hermosillo cuenta con el segundo árbol solar de México para recarga de eléctricos |
@@ -88,6 +89,7 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [https://proyectopuente.com.mx/2021/02/23/este-miercoles-entregaran-premios-empresariales-en-hermosillo-por-primera-vez-en-formato-virtual/](https://proyectopuente.com.mx/2021/02/23/este-miercoles-entregaran-premios-empresariales-en-hermosillo-por-primera-vez-en-formato-virtual/) | 2/23/2021 | Este miércoles entregará Premios Empresariales en Hermosillo por primera vez en formato virtual |
 | [https://www.elsoldehermosillo.com.mx/local/hermosillo-sedema-programa-cinturon-verde-siembra-de-arboles-ultimas-noticias-de-hermosillo-6142997.html](https://www.elsoldehermosillo.com.mx/local/hermosillo-sedema-programa-cinturon-verde-siembra-de-arboles-ultimas-noticias-de-hermosillo-6142997.html) | 2/24/2021 | Sedema programa Cinturón Verde y siembra de árboles |
 | [https://www.elsoldehermosillo.com.mx/local/caminantes-del-desierto-limpian-zona-del-cinturon-verde-en-hermosillo-6181548.html](https://www.elsoldehermosillo.com.mx/local/caminantes-del-desierto-limpian-zona-del-cinturon-verde-en-hermosillo-6181548.html) | 2/27/
+
 2021 | Caminantes del Desierto limpian zona del Cinturón Verde en Hermosillo |
 | [https://www.elimparcial.com/sonora/hermosillo/Protestan-vecinos-de-Hermosillo-por-tala-de-arboles-en-el-camellon-20210301-0005.html](https://www.elimparcial.com/sonora/hermosillo/Protestan-vecinos-de-Hermosillo-por-tala-de-arboles-en-el-camellon-20210301-0005.html) | 3/1/2021 | Protestan vecinos de Hermosillo por tala de árboles en el camellón |
 | [https://www.elsoldehermosillo.com.mx/local/agua-se-quedara-sin-lugar-para-recargarse-si-no-protegemos-las-zonas-de-recarga-vigilantes-de-la-ciudad-6205779.html](https://www.elsoldehermosillo.com.mx/local/agua-se-quedara-sin-lugar-para-recargarse-si-no-protegemos-las-zonas-de-recarga-vigilantes-de-la-ciudad-6205779.html) | 3/2/2021 | El agua se quedará sin lugar para recargarse si no protegemos las zonas de recarga |
@@ -95,6 +97,7 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [https://proyectopuente.com.mx/2021/03/10/arranca-proyecto-de-restauracion-ecologica-en-el-cerro-de-la-campana-en-hermosillo/](https://proyectopuente.com.mx/2021/03/10/arranca-proyecto-de-restauracion-ecologica-en-el-cerro-de-la-campana-en-hermosillo/) | 3/10/2021 | Arranca proyecto de restauración ecológica en el Cerro de la Campana en Hermosillo |
 | [https://www.elsoldehermosillo.com.mx/local/mexicanos-estan-dentro-de-los-peores-en-habitos-para-cuidar-el-agua-6234206.html](https://www.elsoldehermosillo.com.mx/local/mexicanos-estan-dentro-de-los-peores-en-habitos-para-cuidar-el-agua-6234206.html) | 3/13/2021 | Mexicanos están dentro de los peores en hábitos para cuidar el agua |
 | [https://www.elsoldehermosillo.com.mx/local/hermosillo-con-energia-electrica-suficiente-para-la-mitad-de-los-hogares-6237535.html](https://www.elsoldehermosillo.com.mx/local/hermosillo-con-
+
 energia-electrica-suficiente-para-la-mitad-de-los-hogares-6237535.html) | 3/14/2021 | Hermosillo con energía eléctrica suficiente para la mitad de los hogares |
 | [https://proyectopuente.com.mx/2021/03/18/caminantes-del-desierto-hara-jornada-de-limpieza-en-el-cerro-de-la-campana-en-hermosillo/](https://proyectopuente.com.mx/2021/03/18/caminantes-del-desierto-hara-jornada-de-limpieza-en-el-cerro-de-la-campana-en-hermosillo/) | 3/18/2021 | Caminantes del Desierto hará jornada de limpieza en el Cerro de la Campana en Hermosillo |
 | [https://proyectopuente.com.mx/2021/03/18/vecinos-denuncian-tala-indiscriminada-en-hermosillo-piden-investigar-responsabilidades/](https://proyectopuente.com.mx/2021/03/18/vecinos-denuncian-tala-indiscriminada-en-hermosillo-piden-investigar-responsabilidades/) | 3/18/2021 | Vecinos denuncian tala indiscriminada en Hermosillo; piden investigar responsabilidades |
@@ -102,6 +105,7 @@ energia-electrica-suficiente-para-la-mitad-de-los-hogares-6237535.html) | 3/14/2
 | [https://proyectopuente.com.mx/2021/03/22/caminantes-del-desierto-hara-jornada-de-limpieza-en-las-anforas-en-hermosillo/](https://proyectopuente.com.mx/2021/03/22/caminantes-del-desierto-hara-jornada-de-limpieza-en-las-anforas-en-hermosillo/) | 3/22/2021 | Caminantes del Desierto hará jornada de limpieza en Las Ánforas en Hermosillo |
 | [https://proyectopuente.com.mx/2021/03/23/cerca-de-10-000-personas-visitaron-el-cerro-de-la-campana-en-semana-santa/](https://proyectopuente.com.mx/2021/03/23/cerca-de-10-000-personas-visitaron-el-cerro-de-la-campana-en-semana-santa/) | 3/23/2021 | Cerca de 10,000 personas visitaron el Cerro de la Campana en Semana Santa |
 | [https://www.elsoldehermosillo.com.mx/local/aprueban-reglamento-para-reducir-contaminacion-luminica-en-hermosillo-6273719.html](https://www.elsoldehermosillo.com.mx/local/aprueban-reglamento-
+
 para-reducir-contaminacion-luminica-en-hermosillo-6273719.html) | 3/25/2021 | Aprueban reglamento para reducir contaminación lumínica en Hermosillo |
 | [https://proyectopuente.com.mx/2021/03/25/caminantes-del-desierto-limpian-las-anforas-en-hermosillo/](https://proyectopuente.com.mx/2021/03/25/caminantes-del-desierto-limpian-las-anforas-en-hermosillo/) | 3/25/2021 | Caminantes del Desierto limpian Las Ánforas en Hermosillo |
 | [https://proyectopuente.com.mx/2021/03/31/despues-de-cerro-de-la-campana-empiezan-a-limpiar-cerro-pelado-en-hermosillo/](https://proyectopuente.com.mx/2021/03/31/despues-de-cerro-de-la-campana-empiezan-a-limpiar-cerro-pelado-en-hermosillo/) | 3/31/2021 | Después de Cerro de la Campana, empiezan a limpiar Cerro Pelado en Hermosillo |
@@ -110,12 +114,14 @@ para-reducir-contaminacion-luminica-en-hermosillo-6273719.html) | 3/25/2021 | Ap
 | [https://proyectopuente.com.mx/2021/04/06/comunidad-de-magdalena-pide-detener-tala-indiscriminada-en-hermosillo/](https://proyectopuente.com.mx/2021/04/06/comunidad-de-magdalena-pide-detener-tala-indiscriminada-en-hermosillo/) | 4/6/2021 | Comunidad de Magdalena pide detener tala indiscriminada en Hermosillo |
 | [https://www.elsoldehermosillo.com.mx/local/mas-de-200-sancionados-en-hermosillo-por-romper-medidores-de-agua-6347272.html](https://www.elsoldehermosillo.com.mx/local/mas-de-200-sancionados-en-hermosillo-por-romper-medidores-de-agua-6347272.html) | 4/10/2021 | Más de 200 sancionados en Hermosillo por romper medidores de agua |
 | [https://proyect
+
 opuente.com.mx/2021/04/14/camara-del-comercio-de-hermosillo-preve-dano-economico-si-piden-cerrar-negocios-a-las-10-de-la-noche/](https://proyectopuente.com.mx/2021/04/14/camara-del-comercio-de-hermosillo-preve-dano-economico-si-piden-cerrar-negocios-a-las-10-de-la-noche/) | 4/14/2021 | Cámara del Comercio de Hermosillo prevé daño económico si piden cerrar negocios a las 10 de la noche |
 | [https://proyectopuente.com.mx/2021/04/15/tras-meses-de-reclamos-realizan-primera-jornada-de-limpieza-en-cerro-pelado-en-hermosillo/](https://proyectopuente.com.mx/2021/04/15/tras-meses-de-reclamos-realizan-primera-jornada-de-limpieza-en-cerro-pelado-en-hermosillo/) | 4/15/2021 | Tras meses de reclamos, realizan primera jornada de limpieza en Cerro Pelado en Hermosillo |
 | [https://proyectopuente.com.mx/2021/04/16/estas-son-las-nuevas-tarifas-que-cobrara-cespm-a-partir-del-1-de-mayo-en-ensenada/](https://proyectopuente.com.mx/2021/04/16/estas-son-las-nuevas-tarifas-que-cobrara-cespm-a-partir-del-1-de-mayo-en-ensenada/) | 4/16/2021 | Estas son las nuevas tarifas que cobrará Cespm a partir del 1 de mayo en Ensenada |
 | [https://proyectopuente.com.mx/2021/04/16/realizan-primera-jornada-de-limpieza-en-cerro-pelado-en-hermosillo/](https://proyectopuente.com.mx/2021/04/16/realizan-primera-jornada-de-limpieza-en-cerro-pelado-en-hermosillo/) | 4/16/2021 | Realizan primera jornada de limpieza en Cerro Pelado en Hermosillo |
 | [https://proyectopuente.com.mx/2021/04/18/vecinos-de-las-aguilas-denuncian-tala-indiscriminada-en-hermosillo/](https://proyectopuente.com.mx/2021/04/18/vecinos-de-las-aguilas-denuncian-tala-indiscriminada-en-hermosillo/) | 4/18/2021 | Vecinos de Las Águilas denuncian tala indiscriminada en Hermosillo |
 | [https://proyectopuente.com.mx/2021/04/21/solicitaran-revisar-pautas-de-medicion-y-cobro-de-agua-potable-en-hermosillo/](https://proyectopuente.com.mx/2021/04/21/solicitaran-revisar-pautas-de-medicion-y-cobro-de-agua-potable-en-hermosillo/) | 4/21/2021 | Solicitarán revisar pautas
+
  de medición y cobro de agua potable en Hermosillo |
 | [https://proyectopuente.com.mx/2021/04/22/denuncian-tala-indiscriminada-en-zona-del-cerro-de-la-campana-en-hermosillo/](https://proyectopuente.com.mx/2021/04/22/denuncian-tala-indiscriminada-en-zona-del-cerro-de-la-campana-en-hermosillo/) | 4/22/2021 | Denuncian tala indiscriminada en zona del Cerro de la Campana en Hermosillo |
 | [https://proyectopuente.com.mx/2021/04/26/vecinos-exigen-que-donadores-de-plasma-contra-covid-19-dejen-de-hacer-fiestas-en-colonia-en-hermosillo/](https://proyectopuente.com.mx/2021/04/26/vecinos-exigen-que-donadores-de-plasma-contra-covid-19-dejen-de-hacer-fiestas-en-colonia-en-hermosillo/) | 4/26/2021 | Vecinos exigen que donadores de plasma contra COVID-19 dejen de hacer fiestas en colonia en Hermosillo |
@@ -123,6 +129,7 @@ opuente.com.mx/2021/04/14/camara-del-comercio-de-hermosillo-preve-dano-economico
 | [https://www.elsoldehermosillo.com.mx/local/por-falta-de-pago-hasta-que-haya-un-acuerdo-camioneros-de-deposito-no-recolectan-basura-6403429.html](https://www.elsoldehermosillo.com.mx/local/por-falta-de-pago-hasta-que-haya-un-acuerdo-camioneros-de-deposito-no-recolectan-basura-6403429.html) | 5/3/2021 | Por falta de pago hasta que haya un acuerdo, camioneros de depósito no recolectan basura |
 | [https://proyectopuente.com.mx/2021/05/04/caminantes-del-desierto-hara-jornada-de-limpieza-en-la-reserva-san-juan-en-hermosillo/](https://proyectopuente.com.mx/2021/05/04/caminantes-del-desierto-hara-jornada-de-limpieza-en-la-reserva-san-juan-en-hermosillo/) | 5/4/2021 | Caminantes del Desierto hará jornada de limpieza en la Reserva San Juan en Hermosillo |
 | [https://proyectopuente.com.mx/2021/05/05/servicio-de-agua-potable-por-pipas-en-hermosillo-para-usuarios-de-cespm/](https://proyectopuente.com.mx/2021/05/05/servicio-de-agua-potable-por-pipas-en-hermosillo-para-usuarios-de-cespm/) | 5/5/2021 | Servicio de agua potable por pipas en
+
  Hermosillo para usuarios de Cespm |
 | [https://proyectopuente.com.mx/2021/05/08/vandalizan-red-de-agua-potable-en-hermosillo-hacen-un-orificio-y-se-roban-tuberia/](https://proyectopuente.com.mx/2021/05/08/vandalizan-red-de-agua-potable-en-hermosillo-hacen-un-orificio-y-se-roban-tuberia/) | 5/8/2021 | Vandalizan red de agua potable en Hermosillo, hacen un orificio y se roban tubería |
 | [https://proyectopuente.com.mx/2021/05/10/aprueba-consejo-general-del-ine-que-10-municipios-de-sonora-contaran-con-contenedores-para-urnas/](https://proyectopuente.com.mx/2021/05/10/aprueba-consejo-general-del-ine-que-10-municipios-de-sonora-contaran-con-contenedores-para-urnas/) | 5/10/2021 | Aprueba Consejo General del INE que 10 municipios de Sonora contarán con contenedores para urnas |
@@ -131,6 +138,7 @@ opuente.com.mx/2021/04/14/camara-del-comercio-de-hermosillo-preve-dano-economico
 | [https://www.elsoldehermosillo.com.mx/local/bomberos-de-hermosillo-apagaron-30-incendios-forestales-en-mayo-6451302.html](https://www.elsoldehermosillo.com.mx/local/bomberos-de-hermosillo-apagaron-30-incendios-forestales-en-mayo-6451302.html) | 5/17/2021 | Bomberos de Hermosillo apagaron 30 incendios forestales en mayo |
 | [https://proyectopuente.com.mx/2021/05/19/declaracion-patrimonial-funcionarios-hermosillenses-lo-haran-a-traves-de-plataforma-nacional/](https://proyectopuente.com.mx/2021/05/19/declaracion-patrimonial-funcionarios-hermosillenses-lo-haran-a-traves-de-plataforma-nacional/) | 5/19/2021 | Declaración patrimonial de funcionarios hermosillenses lo harán a través de plataforma nacional |
 | [https://www.els
+
 oldehermosillo.com.mx/local/aprueban-congreso-de-sonora-cambios-a-ley-de-movilidad-6463182.html](https://www.elsoldehermosillo.com.mx/local/aprueban-congreso-de-sonora-cambios-a-ley-de-movilidad-6463182.html) | 5/20/2021 | Aprueban Congreso de Sonora cambios a ley de movilidad |
 | [https://proyectopuente.com.mx/2021/05/24/avanza-propuesta-para-que-hermosillo-y-cajeme-dejen-de-recibir-dos-pagos-en-derechos-vehiculares/](https://proyectopuente.com.mx/2021/05/24/avanza-propuesta-para-que-hermosillo-y-cajeme-dejen-de-recibir-dos-pagos-en-derechos-vehiculares/) | 5/24/2021 | Avanza propuesta para que Hermosillo y Cajeme dejen de recibir dos pagos en derechos vehiculares |
 | [https://proyectopuente.com.mx/2021/05/25/familiares-de-personas-desaparecidas-realizan-busqueda-en-la-costa-de-hermosillo/](https://proyectopuente.com.mx/2021/05/25/familiares-de-personas-desaparecidas-realizan-busqueda-en-la-costa-de-hermosillo/) | 5/25/2021 | Familiares de personas desaparecidas realizan búsqueda en la costa de Hermosillo |
@@ -138,11 +146,11 @@ oldehermosillo.com.mx/local/aprueban-congreso-de-sonora-cambios-a-ley-de-movilid
 | [https://www.elsoldehermosillo.com.mx/local/incremento-en-casos-covid-19-en-sonora-en-jovenes-de-18-a-29-anos-inicio-en-hermosillo-6492025.html](https://www.elsoldehermosillo.com.mx/local/incremento-en-casos-covid-19-en-sonora-en-jovenes-de-18-a-29-anos-inicio-en-hermosillo-6492025.html) | 6/1/2021 | Incremento en casos COVID-19 en Sonora en jóvenes de 18 a 29 años inició en Hermosillo |
 | [https://proyectopuente.com.mx/2021/06/03/se-mantiene-temperatura-de-40o-c-en-hermosillo-y-zonas-vecinas/](https://proyectopuente.com.mx/2021/06/03/se-mantiene-temperatura-de-40o-c-en-hermosillo-y-zonas-vecinas/) | 6/3/2021 | Se mantiene temperatura de 40°C en Hermosillo y zonas vecinas |
 | [https://proyectopuente.com.mx/2021/06/04/prenden-fuego-a-b
+
 asura-en-espacios-publicos-para-evitar-propagacion-del-dengue-en-hermosillo/](https://proyectopuente.com.mx/2021/06/04/prenden-fuego-a-basura-en-espacios-publicos-para-evitar-propagacion-del-dengue-en-hermosillo/) | 6/4/2021 | Prenden fuego a basura en espacios públicos para evitar propagación del dengue en Hermosillo |
 | [https://www.elsoldehermosillo.com.mx/local/ante-calor-intenso-espacios-publicos-se-siguen-cerrando-en-hermosillo-6520141.html](https://www.elsoldehermosillo.com.mx/local/ante-calor-intenso-espacios-publicos-se-siguen-cerrando-en-hermosillo-6520141.html) | 6/7/2021 | Ante calor intenso, espacios públicos se siguen cerrando en Hermosillo |
 
-
-
+Estos son algunos ejemplos de noticias de Hermosillo. Ten en cuenta que la lista se basa en noticias publicadas hasta mi fecha de conocimiento, que es septiembre de 2021. Te recomendaría visitar los enlaces proporcionados para obtener información más actualizada sobre Hermosillo.
 
 
 
