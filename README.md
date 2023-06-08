@@ -23,7 +23,6 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [Enlace 17](https://www.elsoldehermosillo.com.mx/local/invitan-a-jornada-de-recuperacion-de-areas-verdes-replantemos-hermosillo-4073238.html)    | 8/21/2019 | Invitan a jornada de recuperación de áreas verdes “Replantemos Hermosillo”                                       |
 | [Enlace 18](https://www.expreso.com.mx/seccion/hermosillo/119166-alrededor-de-60-personas-participaron-en-la-jornada-de-recuperacion-de-areas-verdes-en-la-ciudad.html)    | 8/24/2019 | Alrededor de 60 personas participaron en la jornada de recuperación de áreas verdes en la ciudad                 |
 | [Enlace 19
-
 ](https://dcsociales.unison.mx/wp-content/uploads/2019/10/PROGRAMA9CNICCNO_2CV-.pdf)    | 10/7/2019 | 9° Congreso Nacional de Investigación en Cambio Climático                                                         |
 | [Enlace 20](https://www.elimparcial.com/sonora/hermosillo/Ambientalistas-garantizan-vida-a-arboles-en-el-bulevar-Progreso-20191022-0010.html)    | 10/22/2019 | Ambientalistas garantizan "vida" a árboles en el bulevar Progreso                                                 |
 | [Enlace 21](https://www.elsoldehermosillo.com.mx/local/de-panteon-municipal-a-pulmon-verde-para-hermosillo-4526003.html)    | 12/1/2019 | De Panteón Municipal a pulmón verde para Hermosillo                                                              |
