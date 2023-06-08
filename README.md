@@ -1,8 +1,6 @@
 # Caminantes_del_desierto
 Repositorio destinado para la asociacion civil caminantes del desierto
-Aquí tienes la tabla en formato Markdown:
 
-Aquí tienes la tabla actualizada en formato Markdown:
 
 | LINK | FECHA     | ENCABEZADO DE LA NOTA                                                                                       |
 |------|-----------|------------------------------------------------------------------------------------------------------------|
