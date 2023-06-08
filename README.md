@@ -28,3 +28,29 @@ Aquí tienes la tabla actualizada en formato Markdown:
 | [Enlace 21](https://www.elsoldehermosillo.com.mx/local/de-panteon-municipal-a-pulmon-verde-para-hermosillo-4526003.html)    | 12/1/2019 | De Panteón Municipal a pulmón verde para Hermosillo                                                              |
 | [Enlace 22](https://www.expreso.com.mx/seccion/hermosillo/139021-invitan-a-limpieza-de-buffel-en-parque-johnson.html)    | 12/21/2019 | Invitan a limpieza de buffel en Parque Johnson                                                                    |
 
+
+
+
+| Enlace | Fecha | Descripción |
+|--------|-------|-------------|
+| [Enlace 23](https://www.elsoldehermosillo.com.mx/doble-via/ecologia/parque-jhonson-una-reserva-natural-bajo-proteccion-en-hermosillo-4664302.html)    | 1/6/2020  | Parque Jhonson, una reserva natural bajo protección en Hermosillo                                                               |
+| [Enlace 24](https://proyectopuente.com.mx/2020/01/09/denuncia-colectivo-explosiones-con-dinamita-en-cerro-johnson-en-hermosillo/)    | 1/9/2020  | Denuncian explosiones con dinamita en Cerro Johnson de Hermosillo                                                             |
+| [Enlace 25](https://fb.watch/jMv9onfZcd/)    | 1/9/2020  | Tutorial cómo plantar un árbol                                                                                                   |
+| [Enlace 26](https://proyectopuente.com.mx/2020/01/22/detecta-camara-de-video-a-venado-bura-o-ciervo-mulo-en-cerro-johnson-de-hermosillo/)    | 1/22/2020 | Detecta cámara de video a venado bura o "ciervo mulo" en Cerro Johnson de Hermosillo                                            |
+| [Enlace 27](https://proyectopuente.com.mx/2020/01/23/coloca-caminantes-del-desierto-camara-para-detectar-presencia-de-especies-en-cerro-johnson/)    | 1/23/2020 | Coloca Caminantes del Desierto cámara para detectar presencia de especies en Cerro Johnson                                      |
+| [Enlace 28](https://www.youtube.com/watch?v=ZXISplqtllI)    | 1/23/2020 | Coloca Caminantes del Desierto cámara para detectar presencia de especies en Cerro Johnson                                      |
+| [Enlace 29](https://proyectopuente.com.mx/2020/02/01/participan-ninos-y-adultos-en-caminata-machia-en-cerro-del-bachoco-en-hermosillo/)    | 2/1/2020  | Participan familias en "Caminata machia" en cerro del Bachoco en Hermosillo                                                    |
+| [Enlace 30](https://www.elsoldehermosillo.com.mx/local/activistas-denuncian-danos-en-el-cerro-del-bachoco-por-construccion-de-obras-4904485.html)    | 2/29/2020 | Activistas denuncian daños en el cerro del Bachoco por construcción de obras                                                    |
+| [Enlace 31](https://www.elsoldehermosillo.com.mx/doble-via/ecologia/fotos-buffel-la-africanizacion-del-desierto-sonorense-4969608.html)    | 3/14/2020 | Buffel: la africanización del desierto sonorense                                                                                  |
+| [Enlace 32](https://proyectopuente.com.mx/2020/04/24/sofocan-ambientalistas-incendio-en-cerro-johnson-ubicado-al-nororiente-de-hermosillo/)    |
+
+ 4/24/2020 | Sofocan ambientalistas incendio en cerro Johnson ubicado al nororiente de Hermosillo                                            |
+| [Enlace 33](https://proyectopuente.com.mx/2020/05/10/reportan-incendios-en-cerro-johnson-el-bachoco-akiwiki-y-la-cementera-en-hermosillo-se-pierde-flora-y-fauna-desconocen-causas/)    | 5/10/2020 | Reportan incendios en Cerro Johnson, El Bachoco, Akiwiki y La Cementera en Hermosillo, se pierde flora y fauna; desconocen causas |
+| [Enlace 34](https://www.expreso.com.mx/seccion/expresion/fuera-de-ruta/193307-los-incendios-urbanos-y-periurbanos-en-hermosillo-un-llamado-para-controlar-el-zacate-buffel.html)    | 6/8/2020  | Los Incendios Urbanos y Periurbanos en Hermosillo, un llamado para controlar el zacate Buffel                                   |
+| [Enlace 35](https://proyectopuente.com.mx/2020/06/15/rescata-colectivo-caminantes-del-desierto-arboles-que-fueron-arrancados-de-raiz-en-hermosillo/)    | 6/15/2020 | Rescatan Asociación y hermosillenses árboles que fueron arrancados de raíz en Hermosillo                                        |
+| [Enlace 36](https://proyectopuente.com.mx/2020/06/18/mezquite-palo-fierro-y-palo-verde-arboles-nativos-de-sonora-que-deben-plantarse-soportan-el-desierto-necesitan-menos-agua-y-refrescan/)    | 6/18/2020 | Mezquite, Palo Fierro y Palo Verde, árboles nativos que necesita Hermosillo para reducir calor, deben plantarse antes de primeras lluvias de verano |
+| [Enlace 37](https://proyectopuente.com.mx/2020/06/29/gobierno-del-estado-y-organizaciones-ambientalistas-unen-esfuerzos-para-atender-necesidades-ambientales-en-hermosillo/)    | 6/29/2020 | Gobierno del Estado y organizaciones ambientalistas unen esfuerzos para atender necesidades en Hermosillo                        |
+| [Enlace 38](https://www.expreso.com.mx/seccion/expresion/colaboracion-especial/209612-colectivos-ambientalistas-por-una-mejor-ciudad.html)    | 7/20/2020 | Colectivos ambientalistas por una mejor ciudad                                                                                    |
+| [Enlace 39](https://www.elsoldehermosillo.com.mx/doble-via/ecologia/ambientalistas-piden-nueva-normalidad-con-crecimiento-verde-5586481.html)    | 8/5/2020  | Ambientalistas piden Nueva Normalidad con "Crecimiento Verde"                                                                    |
+
+
